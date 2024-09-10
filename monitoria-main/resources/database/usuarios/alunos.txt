@@ -1,0 +1,5 @@
+Cosme AS Neto;cosme@academico.ifpb.edu.br;1234;202300112233;ADS;3;Semestre;70.0
+Larissa Oliveira Candido;lari@academico.ifpb.edu.br;1234;202133220000;SER;3;Ano;89.0
+Joao Vitor;jv@academico.ifpb.edu.br;1234;202312092211;ADS;2;Semestre;65.0
+Teste Alunos;teste@academico.ifpb.edu.br;1234;112233445566;Teste;1000;Ano;40.0
+Pedro Paulo;pedrin@academico.ifpb.edu.br;1234;202412323344;ADS;1;Semestre;40.0

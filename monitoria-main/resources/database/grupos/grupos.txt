@@ -1,0 +1,49 @@
+Nome do Grupo: ADS
+Matéria: Tudo
+Local: IF
+Horário: {Quarta=15:00}
+Código do Grupo: 6OJPRU
+Participantes: Cosme AS Neto, Joao Vitor, Pedro Paulo
+------------------------------
+Nome do Grupo: PEE 2024.1
+Matéria: PEE
+Local: IF
+Horário: {Terça=10:40}
+Código do Grupo: HMI987
+Participantes: Cosme AS Neto, Larissa Oliveira Candido
+------------------------------
+Nome do Grupo: MAC 2024.1
+Matéria: MAC
+Local: IF
+Horário: {Sábado=14:00}
+Código do Grupo: 8MJKNG
+Participantes: Cosme AS Neto, Joao Vitor, Pedro Paulo
+------------------------------
+Nome do Grupo: Matematica Terceiro SER 2024
+Matéria: Matematica
+Local: If
+Horário: {Terça=15:00, Quarta=16:00, Segunda=13:00}
+Código do Grupo: SNAWMQ
+Participantes: Larissa Oliveira Candido, Cosme AS Neto
+------------------------------
+Nome do Grupo: POO 2024.1
+Matéria: POO
+Local: LAB.INF.2
+Horário: {Sexta=14:00, Quinta=14:00}
+Código do Grupo: Z6JFEJ
+Participantes: Antonio Dias, Pedro Paulo, Cosme AS Neto
+------------------------------
+Nome do Grupo: IC 2024.1
+Matéria: IC
+Local: IF.Sala.12
+Horário: {Quarta=15:00}
+Código do Grupo: UQLJIP
+Participantes: Antonio Dias, Pedro Paulo
+------------------------------
+Nome do Grupo: TESTICULO
+Matéria: BIO
+Local: IF
+Horário: {Sábado=14:00}
+Código do Grupo: AAA000
+Participantes: Cosme AS Neto, Joao Vitor, Pedro Paulo
+------------------------------
